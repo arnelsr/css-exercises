@@ -1,27 +1,70 @@
 body {
   background: #eee;
-  font-family: sans-serif;
+  font-family:  sans-serif;
+}
+element.style {
+  height: 380px;
 }
 
 .card {
   width: 400px;
   background: #fff;
-  margin: 16px auto;
+  margin: 16px ;
+  display: inline-block;
+  margin-left: 140px;
+  border: #e3f4ff 10px;
+  padding-left: 16px;
+  width: 816px;
+  height: 380px;
+  padding-right: 16px;
+  
 }
 
 .title {
   background: #e3f4ff;
+  height: 50px;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-bottom: 16;
+  font-size: 38px;
 }
 
 .content {
   background: #e3f4ff;
+  height: 90px;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-bottom: 16;
+  font-size: 28px;
+  margin-bottom: 16px;
+  
+   
 }
 
 .button-container {
   background: #e3f4ff;
+  height: 100px;
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-bottom: 16;
+  font-size: 24px;
+  border: #fff 10px;
+  border-left: #fff 10px;
+  text-align: center;
+  align-content: center;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
+  font-size: 24px;
+  margin-left: 300px;
+  padding-top: 16px;
+  padding-bottom: 16;
+  width: 200px;
+  height:60px;
+
+
+  
 }
