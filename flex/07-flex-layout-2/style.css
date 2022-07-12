@@ -47,8 +47,8 @@ body {
 }
 .midbody {
   display: flex;
-  align-items: flex-start;
-  flex: 1 1 auto;
+  
+  flex: 1 
   
 
 }
@@ -69,7 +69,7 @@ body {
   display:flex;
   
   flex-shrink:0;
-  height:702px;
+  
   font-size: 24px;
   color:white;
 
